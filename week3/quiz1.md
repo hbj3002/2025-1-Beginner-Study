@@ -86,7 +86,7 @@ reset은 너무 위험하니 revert를 사용하려고 하여 ```fifth commit```
 어떤 명령어를 사용하면 되는지 적으시오. 
 
 - 답: 
-git revert s2d3f4g
+$git revert s2d3f4g
 
 ### Q9
 여러 사람이 협업하는 프로젝트에서 커밋을 되돌려야 한다.  
